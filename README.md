@@ -48,8 +48,6 @@ El proyecto utiliza las siguientes dependencias clave:
 ### Documentación
 - **SpringDoc OpenAPI UI (2.5.0)**: Para documentación de API con Swagger
 
-### Testing
-- **Spring Boot Starter Test**: Para pruebas unitarias e integración
 
 ## 🛠️ Versiones
 - Java 17
