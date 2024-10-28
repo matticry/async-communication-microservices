@@ -1,0 +1,13 @@
+package com.matticry.microservicesaccount.dto;
+
+import com.matticry.microservicesaccount.enums.TypeAccount;
+import lombok.Data;
+
+import java.math.BigDecimal;
+@Data
+public class AccountRequestDTO {
+    private String numberAccount;
+    private TypeAccount typeAccount;
+    private BigDecimal initialBalanceAcc;
+    private Long clientId;
+}

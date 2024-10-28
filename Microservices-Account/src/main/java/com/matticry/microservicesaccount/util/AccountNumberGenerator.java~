@@ -1,0 +1,4 @@
+package com.matticry.microservicesaccount.util;
+
+public class AccountNumberGenerator {
+}

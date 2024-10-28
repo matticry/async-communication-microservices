@@ -1,0 +1,4 @@
+package com.matticry.microservicesproject.exception;
+
+public class GlobalExceptionHandler {
+}
